@@ -35,7 +35,7 @@
         <EnableStatus>true</EnableStatus>
         <ExceptionHandlingMode>Default</ExceptionHandlingMode>
         <RetryCount>-1</RetryCount>
-        <Text></Text>
+        <Text>Объявление переменной</Text>
         <_activityFullName>BR.Core.Base.Assign</_activityFullName>
       </AbstractStep>
       <AbstractStep z:Id="i6" i:type="ExecutedStep">
@@ -90,7 +90,7 @@
   <Namespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <Params>
     <Parameter z:Id="i9">
-      <DefaultValueExpression>10</DefaultValueExpression>
+      <DefaultValueExpression>15</DefaultValueExpression>
       <Description></Description>
       <Name>num1</Name>
       <RunnerType>None</RunnerType>
