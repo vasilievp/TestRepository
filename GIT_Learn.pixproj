@@ -22,6 +22,11 @@
       <IsMain>false</IsMain>
       <Path>Скрипт2.pix</Path>
     </ProjectFileItem>
+    <ProjectFileItem z:Id="i6">
+      <IsDirectory>false</IsDirectory>
+      <IsMain>false</IsMain>
+      <Path>Папка для скрипта 3\Скрипт3.pix</Path>
+    </ProjectFileItem>
   </Files>
   <MasterUploadId i:nil="true" />
   <Name>GIT_Learn</Name>
